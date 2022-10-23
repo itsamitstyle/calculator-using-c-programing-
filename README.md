@@ -1,2 +1,2 @@
-# calculator-using-c-programing-
+# project 
 making a calculator using c programing language 
